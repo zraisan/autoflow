@@ -100,7 +100,7 @@ sequenceDiagram
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/autoflow.git
+git clone https://github.com/zraisan/autoflow.git
 cd autoflow
 
 # Build the binary
